@@ -1,8 +1,8 @@
-<h1 align ="center">Hi there 👋, I am
+<h3 align ="center">Hi there 👋, I am
   
-<div align="center">  <img src="https://readme-typing-svg.herokuapp.com/?size=30&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Lizhenghe.Chen;A+Stupid+Computer+Science+Student+......"></div>
+<div align="center">  <img src="https://readme-typing-svg.herokuapp.com/?size=25&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Lizhenghe.Chen;A+Stupid+Computer+Science+Student+......"></div>
 
-<div align ="center" >Just love some simple codes, some simple logic, make some fun.  </div></h1>
+<div align ="center" >Just love some simple codes, some simple logic, make some fun.  </div></h3>
 
 <p align ="center"> AI & Deep Learning Go Away!</p>
 
