@@ -1,10 +1,12 @@
 <h3 align ="center">Hi there 👋, I am
-  
-<div align="center">  <img src="https://readme-typing-svg.herokuapp.com/?size=25&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Lizhenghe.Chen;A+Stupid+Computer+Science+Student+......"></div>
+
+
+<a href="https://doggychen.com/"><div align="center" >  <img src="https://readme-typing-svg.herokuapp.com/?size=25&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Lizhenghe.Chen;A+Stupid+Computer+Science+Student+......;Check+DoggyChen.com"></div></a>
 
 <div align ="center" >Just love some simple codes, some simple logic, make some fun.  </div></h3>
 
 <p align ="center"> AI & Deep Learning Go Away!</p>
+
 
 ### 🌱 I’m currently learning ...
 <!--
