@@ -3,7 +3,7 @@
 
   <img src="https://user-images.githubusercontent.com/61171413/167298813-66338313-da39-49f6-9bd5-8600cc444383.png" width=25% height=25%>
  
-  <p>~ ChenLizhenghe; 陈李政和; 陈少伯; BunnyChen ~</p> </a>
+  <p>~ BunnyChen ~</p> </a>
   ------
 <div align ="center" >Just love some simple codes, some simple logic, make some fun.  </div></h3>
 <p align ="center"> AI & Deep Learning Go Away!</p>
